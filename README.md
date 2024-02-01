@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Paul
+- 👀 I’m interested in technology, software development, and innovation.
+- 🌱 I’m currently learning new programming languages and exploring cutting-edge technologies.
+- 💞️ I’m looking to collaborate on open-source projects and initiatives that make a positive impact.
+- 📫 How to reach me: paul@lilacinfotech.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I work at Lilac Infotech, contributing to exciting projects and pushing the boundaries of what's possible in the tech world.
